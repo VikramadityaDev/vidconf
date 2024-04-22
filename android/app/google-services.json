@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670408593834",
+    "project_id": "videoconfrence-949fa",
+    "storage_bucket": "videoconfrence-949fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670408593834:android:cc4ffca5a3ae23dd96dbd3",
+        "android_client_info": {
+          "package_name": "com.vikramadityadev.vidconf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-5SK_os388IYZmkT1-UEt8ozMcJfZn_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
